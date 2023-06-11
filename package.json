@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat Application using Vanilla Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeept/Chat-Application.git"
+  },
+  "author": "Pradeep Tarakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeept/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/pradeept/Chat-Application#readme",
+  "dependencies": {
+    "socket.io": "^4.6.2"
+  }
+}
